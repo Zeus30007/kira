@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['19048882526','27815044083'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'kira' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
@@ -55,11 +55,11 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['19048882526','27815044083']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '19048882526','27815044083' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "kira" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -67,13 +67,13 @@ global.websitex = 'https://www.GITHUB.com/alien-alfa' //ur website to be display
 
 global.botscript = 'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2' //script link
 
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "💀" //ur menu react emoji
 
-global.themeemoji = "🐤" //ur theme emoji
+global.themeemoji = "🗿" //ur theme emoji
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.packname = 'kira🗿' //ur sticker watermark packname
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
+global.author = 'smurfs💀 ' //ur sticker watermark author
 
 
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['19048882526','27815044083'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
