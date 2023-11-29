@@ -25,7 +25,7 @@ global.available = true       //auto available (true to on, false to off)
 
 
 
-global.vidmenuz = 'https://tenor.com/bC4cO.gif' //gif and video menu
+global.vidmenuz = '9eb50d2db8c898d49ba4f.mp4' //gif and video menu
 
 
 
@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['19048882526','27815044083'] //ur owner number
+global.vcardowner = ['27749315158','27619450119'] //ur owner number
 
-global.ownername = 'kira' //ur owner name
+global.ownername = '𝙶𝚁𝙴𝙴𝙺' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
@@ -55,11 +55,11 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['19048882526','27815044083']
+global.owner = ['27749315158','27619450119']
 
-global.ownertag = '19048882526','27815044083' //ur tag number
+global.ownertag = '27749315158','27619450119' //ur tag number
 
-global.botname = "kira" //ur bot name
+global.botname = "𝙼𝙰𝙺𝙸 𝚉𝙴𝙽𝙸𝙽" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -71,9 +71,9 @@ global.reactmoji = "💀" //ur menu react emoji
 
 global.themeemoji = "🗿" //ur theme emoji
 
-global.packname = 'kira🗿' //ur sticker watermark packname
+global.packname = '𝚂𝚝𝚎𝚊𝚕 𝚒𝚝 𝚝𝚑𝚊𝚝 𝚝𝚑𝚎 𝚘𝚗𝚕𝚢 𝚝𝚑𝚒𝚗𝚐 𝚢𝚘𝚞 𝚐𝚘𝚘𝚍 𝚊𝚝' //ur sticker watermark packname
 
-global.author = 'smurfs💀 ' //ur sticker watermark author
+global.author = 'By 𝙶𝚁𝙴𝙴𝙺' //ur sticker watermark author
 
 
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['19048882526','27815044083'] //ur premium numbers
+global.premium = global.premiumzz || ['27749315158','27619450119'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -138,13 +138,13 @@ global.mess = {
 global.SessName = './session.alfa.json'
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let worktypez = process.env.WORKTYPE === undefined ? 'Private' : process.env.WORKTYPE
+let worktypez = process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 //-------------
 let workres = worktypez.toLowerCase()  
 //-------------
 if (workres === 'public') {global.worktype = 'public'} 
 //-------------
-else {global.worktype = 'private'}
+else {global.worktype = 'public'}
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 global.gversion = '1.8.0 BETA TEST'
